@@ -253,28 +253,24 @@
                         img.mx-auto(src="@/assets/curso/tema2/img26.svg", alt="imagen ambiental", style="width:208px;")
                   
 
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     separador
     #t_2_3.titulo-segundo
       .h2 2.3 Canales del servicio al cliente
+
+    p.mb-5
+      b
+      b-none
+      b
+      b-none
+
+
+
+
+
+
+
 
 
 
