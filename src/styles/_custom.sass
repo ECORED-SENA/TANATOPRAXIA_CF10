@@ -1,0 +1,164 @@
+.fondo-cajon
+  background: url('../assets/curso/fondo-cajon.png')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+.fondo-cajon2
+  background: url('../assets/curso/tema2/fondo-cajon2.png')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+
+.fondo-bg1
+  background: url('../assets/curso/fondo1.png')
+  background-position: center
+  background-size: auto
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+.fondo-bg2
+  background: url('../assets/curso/tema1/fondo2.png')
+  background-position: center
+  background-size: auto
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+
+.fondo-bg3
+  background: url('../assets/curso/tema1/fondo3.png')
+  background-position: center
+  background-size: auto
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+
+.fondo-bg4
+  background: url('../assets/curso/tema2/fondo4.png')
+  background-position: center
+  background-size: auto
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+
+///tarjetas custom1
+.bg-color2
+  width: 32%
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px 10px 0px 0px
+  border-bottom: 5px solid #DB8804
+
+.bg-color3
+  width: 32%
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px 10px 0px 0px
+  border-bottom: 5px solid #D93328
+
+.bg-color4
+  width: 32%
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px 10px 0px 0px
+  border-bottom: 5px solid #008F85
+///////end tarjetas custom uno
+
+.linea-tiempo-d__item__dots:after 
+  border-left: 5px dotted #e8e8e8
+
+.tabs-c__tab--active 
+  font-weight: bold
+
+
+.bg-line1
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px
+  background-image: url(../assets/curso/tema1/line1.svg)
+  background-size: auto
+  background-repeat: no-repeat
+  background-position: right
+.bg-line2
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px
+  background-image: url(../assets/curso/tema1/line2.svg)
+  background-size: auto
+  background-repeat: no-repeat
+  background-position: right
+.bg-line3
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px
+  background-image: url(../assets/curso/tema1/line3.svg)
+  background-size: auto
+  background-repeat: no-repeat
+  background-position: right
+
+.bloque-texto-a.color-secundario:before
+  background-color: #A6DAD7
+
+//TARJETAS-----LARGAS-----NOOO HOVERRRRR-----------
+.tarjeta-larga1
+  background: linear-gradient(180deg,#d1ebea,#d1ebea)
+  box-shadow: 0 0 15px rgba(0,0,0,.3)
+  .tarjetaLarga-basic1
+    .tarjetaImgL
+      border-top: 7px solid #008F85
+  
+.tarjeta-larga2
+  background: linear-gradient(180deg,#f5f5f5,#f6f6f6)
+  box-shadow: 0 0 15px rgba(0,0,0,.3)
+  .tarjetaLarga-basic1
+    .tarjetaImgL
+      border-top: 7px solid #1d272b
+
+$tarjeta-dimension-weight4: 398px
+$tarjeta-dimension-height4: 450px
+
+.tarjeta-container-Larga
+  position: relative
+  overflow: hidden
+  width: $tarjeta-dimension-weight4
+  height: $tarjeta-dimension-height4
+  border-radius: 0    
+  
+  .tarjetaLarga-basic1
+    position: relative    
+    top: 0 
+    left: 0      
+    transition: all 0.45s 0s ease
+    .tarjetaImgL
+      display: flex
+      flex-direction: column
+      justify-content: start
+      align-items: center          
+      width: $tarjeta-dimension-weight4
+      height: $tarjeta-dimension-height4
+      padding: 0rem
+      text-align: start
+
+.bg-num1
+  background: url('../assets/curso/tema2/bgNum1.png')
+  background-position: left top
+  background-size: auto
+  background-repeat: no-repeat
+.bg-num2
+  background: url('../assets/curso/tema2/bgNum2.png')
+  background-position: left top
+  background-size: auto
+  background-repeat: no-repeat
+.bg-num3
+  background: url('../assets/curso/tema2/bgNum3.png')
+  background-position: left top
+  background-size: auto
+  background-repeat: no-repeat
+
+
+
+//ENDDD----TARJETAS-----LARGAS-----NOOO HOVERRRRR-----------
+
+@media screen and ( max-width: 991px) 
+
+  .fondo-cajon
+    background-size: cover
+  
+  .fondo-bg1, .fondo-bg2, .fondo-bg3, .fondo-bg4
+    margin-inline: -1.4rem
+    background-size: cover
+  
+  .bg-color2,.bg-color3, .bg-color4
+    width: 80%
+  
+  .imagen-novisible
+    display: none
