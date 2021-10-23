@@ -260,19 +260,77 @@
       .h2 2.3 Canales del servicio al cliente
 
     p.mb-5
-      b
-      b-none
-      b
-      b-none
+      b La atención al cliente
+      b-none  no se debe visionar exclusivamente para manejar quejas y reclamaciones, ya que esta 
+      b(style="color: #008F85") permite la creación de entornos y vínculos entre los involucrados en la prestación de un servicio funerario. 
+      b-none A continuación, se presentan canales para que pueda seleccionar algunos según el segmento de cliente.  
 
+    .row.justify-content-center.mb-5
+      .col-lg-12
+        .p-3(style='background-color: #1D272B;')
+          h4.mb-0.text-center.text-white Este proceso de servicio al cliente se da a través de diferentes técnicas:
+          
+    .row.justify-content-center.mb-4
+      .col-6.col-lg-4.align-self-center
+        figure.mb-4.mb-lg-0
+          img.mx-auto(src="@/assets/curso/tema2/img27.svg", alt="imagen ambiental", style="width:390px;")
+      .col-lg-8.align-self-center
+        .tarjeta-avatar-b.mb-2
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/tema2/icon1.svg' alt='AvatarTop')
+          .tarjeta.bg-line3(style='background-color:#fff; align-self: center;')
+            .p-4
+              h4 Chat en vivo
+              p.mb-0 Se ha popularizado esta posibilidad de servicio digital al cliente, es implantada por agentes o incluso por robots.
+                
+        .tarjeta-avatar-b.mb-2
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/tema2/icon2.svg' alt='AvatarTop')
+          .tarjeta.bg-line3(style='background-color:#fff; align-self: center;')
+            .p-4
+              h4 Email
+              p.mb-0 Continúa siendo el modelo de atención más implementado, posibilita efectividad, precisión y estructuración de la atención y comunicación con el cliente.
+                
+        .tarjeta-avatar-b.mb-2
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/tema2/icon3.svg' alt='AvatarTop')
+          .tarjeta.bg-line3(style='background-color:#fff; align-self: center;')
+            .p-4
+              h4 Atención telefónica
+              p.mb-0 Modelo tradicional que genera conexión personal y emocional con el cliente, identificando su necesidad y posibilitando empatizar con el cliente.
+                
+    .row.justify-content-center.mb-4
+      .col-lg-12
+        .tarjeta-avatar-b.mb-3
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/tema2/icon4.svg' alt='AvatarTop')
+          .tarjeta.bg-line3(style='background-color:#fff; align-self: center;')
+            .p-4
+              h4 Formularios web
+              p.mb-0 Toda Web o App debe tener como mínimo un formulario de contacto con el cliente. Es similar a la técnica del correo, aunque también puede derivar en que alguien contacte por teléfono directamente con el cliente.
+              
+        .tarjeta-avatar-b.mb-2
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/tema2/icon5.svg' alt='AvatarTop')
+          .tarjeta.bg-line3(style='background-color:#fff; align-self: center;')
+            .p-4
+              h4 Redes sociales
+              p.mb-0 En la actualidad, los entornos digitales están generando un medio para otorgar respuestas rápidas con el cliente.
+              
 
+    .tarjeta.fondo-llamado.p-4.p-md-5.mb-5
+      .row.justify-content-around.align-items-center
+        .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
+          img(src="@/assets/curso/tema2/img28.svg")
 
-
-
-
-
-
-
+        .col-md.col-lg-6
+          .titulo-segundo.mb-4
+            h3 ¿Cómo generar entornos para generar vínculos con los clientes?
+          p.mb-4 Los entornos virtuales cada vez son más propicios para la creación de relaciones entre las personas y organizaciones en torno a un interés común. Intercambiar ideas, encontrar información y comprar son algunas acciones que generan un vinculo en los entornos digitales. 
+          
+          a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/TiposVinculos.pdf')" target="_blank" type="application/pdf")
+            span Descargar
+            i.fas.fa-file-download
 
 
     separador
@@ -280,11 +338,95 @@
       .h2 2.4 La comunicación con el cliente
 
 
+    p.mb-5
+      b(style="color: #008F85") La comunicación 
+      b-none se enfoca en 
+      b expresar claramente un mensaje, de manera simple y oportuna, teniendo presente la inteligencia emocional para saber cómo responder de la mejor manera ante cualquier situación que se pueda presentar. 
+      b-none Con los dientes 
+      b(style="color: #B42218") es muy importante 
+      b brindar un servicio de calidad, interesándose por las necesidades y dudas que pueden presentar, esto genera confianza para acercarse a la marca o empresa. 
+      b-none En el siguiente recurso educativo hallará una información que se ha seleccionado para que pueda practicar en su contexto. ¡Adelante! ¿Qué espera?
+
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
+
+    p.mb-5 Siendo así, 
+      b la comunicación se hace eficaz cuando el mensaje que se quiere transmitir se encuentra en el mismo canal que se encuentra el emisor y el receptor, donde a partir de un mensaje se desarrolla una intención. 
+      b-none En el contexto donde sucede esta interacción 
+      b(style="color: #008F85") se utilizan habilidades sociales, con el fin de aumentar la calidad y la capacidad de la comunicación. 
+      b(style="color: #B42218")  En el sector funerario
+      b-none  se debe de contar con 
+      b habilidades que permitan el trato cortés con los familiares del fallecido, ya que son receptores que están pasando por un momento difícil y sensible, 
+      b-none estas habilidades son:
 
 
-    separador
-    #t_2_5.titulo-segundo
-      .h2 2.5 Trazabilidad del servicio
+
+
+    .row.justify-content-center.mb-2.fondo-bg3
+      .col-lg-12.px-md-5.mt-5
+            
+        .row.justify-content-center
+          .tarjeta.fondo-llamado.p-4.p-md-5.mb-5
+            .row.justify-content-around.align-items-center
+              .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
+                img(src="@/assets/curso/tema2/img28.svg")
+                        
+              .col-md.col-lg-6
+                .titulo-segundo.mb-4
+                  h3 Habilidades en la comunicación 
+                p.mb-4 Son capacidades que permiten que el mensaje entre emisor y receptor cumpla su función en un contexto: sector funerario. 
+                
+                a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/ComunicacionCliente.pdf')" target="_blank" type="application/pdf")
+                  span Descargar
+                  i.fas.fa-file-download
+              
+          p Todo lo anterior, también está relacionado con 
+            b(style="color: #008F85")  la comunicación no verbal 
+            b que se manifiesta con un mensaje por medio de gestos, signos, postura e indicios. 
+            b-none En conclusión, 
+            b(style="color: #008F85") la comunicación 
+            b es un acto que involucra lo verbal y no verbal para la transmisión de un mensaje en un contexto. 
+            
+        .row.justify-content-center
+          separador
+          #t_2_5.titulo-segundo
+            .h2 2.5 Trazabilidad del servicio
+          
+        .row.justify-content-center
+          .col-lg-8.mb-4.mb-lg-0
+            p.mb-4 Dentro de la 
+              b(style="color: #008F85") fidelización de los clientes inherente al servicio al cliente, 
+              b-none se debe determinar en qué punto se encuentra 
+              b el cliente potencial con relación al proceso de venta, de esta monitorización surge la necesidad de la trazabilidad del servicio para saber cómo reaccionar ante los sucesos que se susciten. 
+              b-none El poder de la trazabilidad se ajusta al conocimiento del cliente determinando en qué punto se encuentra, si es necesario instruirlo acerca del producto que está interesado en adquirir o simplemente darle un pequeño empujón para que lleve a cabo la compra. 
+              b Según el portal web 
+              b(style="color: #B42218") Leadera <i>Marketing</i> Solutions (2018) 
+              b el <i>lead</i> puede ubicarse en uno de los siguientes escenarios:
+            .row.justify-content-center
+              .col-auto.px-0
+                figure
+                  img.mx-auto(src='@/assets/curso/tema2/img30.svg' alt='concientización' style='width: 160px;')
+                
+              .col-auto.px-0
+                figure
+                  img.mx-auto(src='@/assets/curso/tema2/img31.svg' alt='Investigación' style='width: 160px;')
+                
+              .col-auto.px-0
+                figure
+                  img.mx-auto(src='@/assets/curso/tema2/img32.svg' alt='Decisión' style='width: 160px;')
+                
+              .col-auto.px-0
+                figure
+                  img.mx-auto(src='@/assets/curso/tema2/img33.svg' alt='Acción' style='width: 160px;')
+                
+
+          .col-7.col-lg-4.align-self-center
+            figure
+              img.mx-auto(src='@/assets/curso/tema2/img29.svg' alt='relación proceso de venta' style='width: 420px;')
+
+
 
 
 

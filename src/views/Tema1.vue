@@ -45,7 +45,7 @@
             h4.text-center.mb-4 Persona natural comerciante
             p.text-center Son aquellas personas que ejercen alguna actividad que la ley considera mercantil, por eso se deberán inscribir ante el Registro Único Tributario (RUT) y luego formalizar su matrícula mercantil ante la Cámara de Comercio que le corresponda según su ubicación.
           
-          .bg-color2.p-4.mb-4(data-aos="fade-left")
+          .bg-color4.p-4.mb-4(data-aos="fade-left")
             figure.mb-4
               img(src='@/assets/curso/tema1/icon2.svg', style="width: auto" ,alt='icono que acompaña').mx-auto
             h4.text-center.mb-4 Empresa unipersonal
@@ -152,7 +152,7 @@
             .p-3(style='background-color: #1D272B;')
               h4.mb-0.text-center.text-white Cuando se crea una organización la forma más fácil de realizarla es aplicando el siguiente paso a paso: 
           
-        .row.justify-content-center.mb-0
+        .row.justify-content-center.mb-4
           .col-8.col-lg-5.align-self-center
             figure
               img.mx-auto(src='@/assets/curso/tema1/img8.svg', alt='imagen ambiental', style='width: 440px;')
@@ -178,7 +178,22 @@
               .tarjeta.bg-line3(style='background-color:#fff; align-self: center;')
                 .p-4
                   p.mb-0 División de la organización en secciones que permitan optimizar las tareas y funciones. Teniendo en cuenta que estas sean similares con respecto a: 1. Funciones, 2. Productos, 3. Clientes y 4. Proyectos.
-
+          
+        .row.justify-content-center.mb-4
+            
+          .tarjeta-avatar-b.mb-4
+            .tarjeta-avatar-b__img
+              img(src='@/assets/curso/tema1/icon7.svg' alt='AvatarTop')
+            .tarjeta.bg-line4(style='background-color:#fff; align-self: center;')
+              .p-4
+                p.mb-0 Establecimiento de las relaciones jerárquicas para facilitar la coordinación. Para esto se sugiere la creación de un organigrama en el que aparezca la estructura general de la empresa para que todos los trabajadores la conozcan. 
+              
+          .tarjeta-avatar-b.mb-2
+            .tarjeta-avatar-b__img
+              img(src='@/assets/curso/tema1/icon8.svg' alt='AvatarTop')
+            .tarjeta.bg-line5(style='background-color:#fff; align-self: center;')
+              .p-4
+                p.mb-0 Organización de las tareas, creando un listado de actividades para llevar a cabo y así fijar cuáles son los trabajos prioritarios a llevar a cabo por cada trabajador. Cabe mencionar que esta estructuración ayudará a la organización a generar valor para su mercado y la empresa.
 
 
 
