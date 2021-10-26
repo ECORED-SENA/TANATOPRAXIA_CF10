@@ -78,7 +78,7 @@
                   figure
                     img.mx-auto(src='@/assets/curso/tema3/icon1.svg', alt='icono que acompaña', style="")
               h3.text-center Ventas simples/ self service
-              p.mb-4.text-center Este tipo de ventas se refiere a aquellas que se realizan en el momento, sin mucha complicación y antelación, ya que el cliente potencial o lead, va por su cuenta a adquirir el producto o servicio, aquí se puede mencionar el comercio electrónico o el retail. 
+              p.mb-4.text-center Este tipo de ventas se refiere a aquellas que se realizan en el momento, sin mucha complicación y antelación, ya que el cliente potencial o lead, va por su cuenta a adquirir el producto o servicio, aquí se puede mencionar el comercio electrónico o el <i>retail</i>. 
               p.text-center #[strong Ejemplos:] ropa, alimentos, elementos de aseo, etc.
             .col-md.tarjeta.color-primario.p-5(style='background-color: #A6DAD7')
               .row.justify-content-center.mb-4
@@ -89,7 +89,9 @@
               p.mb-4.text-center(style='color: #12263f') Este tipo de ventas requiere de un proceso mucho más minucioso entre el vendedor y el cliente potencial o lead, donde el primero sirve como consultor desde el primer acercamiento para la posible venta. 
               p.text-center
                 b(style='color: #12263f') Ejemplos: 
-                b-none(style='color: #12263f') venta de inmuebles, vehículos, software, etc. 
+                b-none(style='color: #12263f') venta de inmuebles, vehículos, 
+                  i(style='color: #12263f') software, 
+                  | etc. 
 
     p.mb-5
       b De acuerdo con las ventas simples y complejas antes mencionadas y teniendo en cuenta los diferentes canales utilizados y diversos factores, 
@@ -132,8 +134,8 @@
                   img.mx-auto(src="@/assets/curso/tema3/img5.png", alt="imagen ambiental", style="width:299px;")
                 .px-3
                   .fondo-num3
-                      h4.mb-2 Venta inbound
-                      p.pb-5 Este tipo de venta sigue el camino del inbound marketing, al usar la estrategia de atraer a los clientes para que lleguen al proceso de compra y no necesita salir a buscarlos. Se debe enviar mensajes persuasivos al enfoque de la venta, con el fin de que los usuarios interesados lleguen al punto que sea planteado. Es de destacar que para este tipo de venta es necesario el uso de un sitio web para la recepción de los leads o clientes potenciales.
+                      h4.mb-2 Venta <i>inbound</i>
+                      p.pb-5 Este tipo de venta sigue el camino del <i>inbound marketing</i>, al usar la estrategia de atraer a los clientes para que lleguen al proceso de compra y no necesita salir a buscarlos. Se debe enviar mensajes persuasivos al enfoque de la venta, con el fin de que los usuarios interesados lleguen al punto que sea planteado. Es de destacar que para este tipo de venta es necesario el uso de un sitio web para la recepción de los leads o clientes potenciales.
           
       .col-auto.mb-5.px-1
         .tarjeta.tarjeta-container-Larga(style='width: 299px; height:590px; box-shadow: 0 0 15px rgba(0,0,0,.3)')

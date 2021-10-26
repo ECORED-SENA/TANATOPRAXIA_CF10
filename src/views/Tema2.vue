@@ -263,7 +263,7 @@
       b La atención al cliente
       b-none  no se debe visionar exclusivamente para manejar quejas y reclamaciones, ya que esta 
       b(style="color: #008F85") permite la creación de entornos y vínculos entre los involucrados en la prestación de un servicio funerario. 
-      b-none A continuación, se presentan canales para que pueda seleccionar algunos según el segmento de cliente.  
+      b-none A continuación,  se caracterizan algunos que pueden ayudarle a ofertar su servicio o producto.
 
     .row.justify-content-center.mb-5
       .col-lg-12
@@ -307,7 +307,7 @@
           .tarjeta.bg-line3(style='background-color:#fff; align-self: center;')
             .p-4
               h4 Formularios web
-              p.mb-0 Toda Web o App debe tener como mínimo un formulario de contacto con el cliente. Es similar a la técnica del correo, aunque también puede derivar en que alguien contacte por teléfono directamente con el cliente.
+              p.mb-0 Toda <i>Web</i> o <i>App</i> debe tener como mínimo un formulario de contacto con el cliente. Es similar a la técnica del correo, aunque también puede derivar en que alguien contacte por teléfono directamente con el cliente.
               
         .tarjeta-avatar-b.mb-2
           .tarjeta-avatar-b__img
@@ -328,7 +328,7 @@
             h3 ¿Cómo generar entornos para generar vínculos con los clientes?
           p.mb-4 Los entornos virtuales cada vez son más propicios para la creación de relaciones entre las personas y organizaciones en torno a un interés común. Intercambiar ideas, encontrar información y comprar son algunas acciones que generan un vinculo en los entornos digitales. 
           
-          a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/TiposVinculos.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones(:href="obtenerLink('/downloads/TiposVinculos.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 
@@ -345,7 +345,7 @@
       b-none Con los dientes 
       b(style="color: #B42218") es muy importante 
       b brindar un servicio de calidad, interesándose por las necesidades y dudas que pueden presentar, esto genera confianza para acercarse a la marca o empresa. 
-      b-none En el siguiente recurso educativo hallará una información que se ha seleccionado para que pueda practicar en su contexto. ¡Adelante! ¿Qué espera?
+      b-none En el siguiente recurso educativo hallará una información que se ha seleccionado para que pueda practicar en su contexto. ¡Adelante! ¿Qué espera?.
 
     figure.mb-5
       .video
@@ -378,7 +378,7 @@
                   h3 Habilidades en la comunicación 
                 p.mb-4 Son capacidades que permiten que el mensaje entre emisor y receptor cumpla su función en un contexto: sector funerario. 
                 
-                a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/ComunicacionCliente.pdf')" target="_blank" type="application/pdf")
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/ComunicacionCliente.pdf')" target="_blank" type="application/pdf")
                   span Descargar
                   i.fas.fa-file-download
               
@@ -394,7 +394,7 @@
           #t_2_5.titulo-segundo
             .h2 2.5 Trazabilidad del servicio
           
-        .row.justify-content-center
+        .row.justify-content-center.mb-4
           .col-lg-8.mb-4.mb-lg-0
             p.mb-4 Dentro de la 
               b(style="color: #008F85") fidelización de los clientes inherente al servicio al cliente, 
@@ -421,12 +421,14 @@
                 figure
                   img.mx-auto(src='@/assets/curso/tema2/img33.svg' alt='Acción' style='width: 160px;')
                 
-
+                
           .col-7.col-lg-4.align-self-center
             figure
               img.mx-auto(src='@/assets/curso/tema2/img29.svg' alt='relación proceso de venta' style='width: 420px;')
-
-
+              
+              
+        .row.justify-content-center.mb-4
+          p.mb-0 Junto a lo anterior también se debe determinar el canal más adecuado para que cada lead llegue hasta la venta, por ello seguir un proceso de monitoreo es imprescindible. 
 
 
 

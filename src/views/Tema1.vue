@@ -121,7 +121,7 @@
                 .row.justify-content-around
                   .col-md-7.mb-4.mb-md-0.align-self-center.mb-4.mb-lg-0
                     h3 Visión
-                    p.mb-4 Es la imagen a futuro que quiere dar la empresa, en otras palabras, su proyección en lo que se quiere convertir. Esta debe ser realista, pero sin dejar de lado la ambición para que se motive el equipo de trabajo a cumplir con los objetivos propuestos. La respuesta a las siguientes preguntas ayudará a formular la visión de una empresa: ¿qué se quiere lograr?, ¿dónde se quiere estar en 1, 5, 10 años?, ¿para quién se hará?
+                    p.mb-4 Es la imagen a futuro que quiere dar la empresa, en otras palabras, su proyección en lo que se quiere convertir. Esta debe ser realista, pero sin dejar de lado la ambición para que se motive el equipo de trabajo a cumplir con los objetivos propuestos. La respuesta a las siguientes preguntas ayudará a formular la visión de una empresa: ¿qué se quiere lograr?, ¿dónde se quiere estar en 1, 5, 10 años?, ¿para quién se hará?.
                 
                   .col-8.col-md-5.align-self-center
                     figure
@@ -141,7 +141,7 @@
                 .row.justify-content-around
                   .col-md-7.mb-4.mb-md-0.align-self-center.mb-4.mb-lg-0
                     h3 Resultado
-                    p.mb-4 Los resultados son las formas internas de una empresa para medir la eficiencia y eficacia de los sistemas y modelos operativos que en ella interactúan. Los resultados pueden lograrse cuando una organización divide claramente el trabajo en funciones técnicas, comerciales, financiaras, contables, seguridad y administrativas. 
+                    p.mb-4 Los resultados son las formas internas de una empresa para medir la eficiencia y eficacia de los sistemas y modelos operativos que en ella interactúan. Los resultados pueden lograrse cuando una organización divide claramente el trabajo en funciones técnicas, comerciales, financieras, contables, seguridad y administrativas. 
                 
                   .col-8.col-md-4.align-self-center
                     figure
