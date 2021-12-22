@@ -46,7 +46,7 @@
             figure
               img.mx-auto(src='@/assets/curso/tema2/img5.svg', alt='imagen ambiental', style='width: 480px;')
           .col-lg-7
-            p.mb-4 Sin duda,
+            p.mb-4 Sin duda, 
               b el servicio al cliente constituye para las empresas y organizaciones uno de los esfuerzos más grandes, pues demanda una impecable y rigurosa atención para la prestación de este. 
               b-none Ahora, en 
               b(style="color: #008F85;") el sector funerario el servicio tiene relevancia cuando la organización establece un conjunto de acciones para desarrollar la atención según las expectativas del cliente, acorde a sus creencias. 
@@ -60,7 +60,7 @@
                 b las personas que cumplen sus funciones en el servicio funerario deben respetar las expresiones de dolor, su creencia de los deudos, ante esto es fundamental fomentar dentro de las empresas funerarias una 
                 b(style="color: #008F85;") atención al cliente basada en la empatía y habilidades de comunicación. 
                 b-none Algunos aspectos que 
-                b(style="color: #B42218") el cliente funerario
+                b(style="color: #B42218") el cliente funerario 
                 b-none espera en todo servicio es obtener información clara y rápida, asesoramiento de los trámites legales necesarios, atención humana y personalizada, un servicio de calidad y profesionalidad e intimidad. 
         
         .row.justify-content-center.mb-4
@@ -219,7 +219,7 @@
                         img.mx-auto(src="@/assets/curso/tema2/img20.svg", alt="icono", style="width:208px;")
                         
                         
-              .row.justify-content-center(numero="5" titulo="Sistema de gestión de la relaciones con los clientes (CRM)")
+              .row.justify-content-center(numero="5" titulo="Sistema de gestión de las relaciones con los clientes (CRM)")
                 .col-lg-12.mt-3
                   .row.justify-content-center.mb-4
                     .col-3.col-md-3.mb-4.mb-md-0.align-self-center
@@ -238,7 +238,7 @@
                       .row.justify-content-center
                         .col-auto.px-0
                           figure.mb-3.mb-lg-0
-                            img.mx-auto(src="@/assets/curso/tema2/img22.svg", alt="Sentido de pertenecía", style="width:160px;")
+                            img.mx-auto(src="@/assets/curso/tema2/img22.svg", alt="Sentido de pertenencia", style="width:160px;")
                         .col-auto.px-0
                           figure.mb-3.mb-lg-0
                             img.mx-auto(src="@/assets/curso/tema2/img23.svg", alt="Orientación al cliente", style="width:160px;")
@@ -326,9 +326,9 @@
         .col-md.col-lg-6
           .titulo-segundo.mb-4
             h3 ¿Cómo generar entornos para generar vínculos con los clientes?
-          p.mb-4 Los entornos virtuales cada vez son más propicios para la creación de relaciones entre las personas y organizaciones en torno a un interés común. Intercambiar ideas, encontrar información y comprar son algunas acciones que generan un vinculo en los entornos digitales. 
+          p.mb-4 Los entornos virtuales cada vez son más propicios para la creación de relaciones entre las personas y organizaciones en torno a un interés común. Intercambiar ideas, encontrar información y comprar son algunas acciones que generan un vínculo en los entornos digitales. 
           
-          a.boton.color-acento-botones(:href="obtenerLink('/downloads/TiposVinculos.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones(:href="obtenerLink('/downloads/TiposCanales.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 

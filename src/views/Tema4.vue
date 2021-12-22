@@ -69,8 +69,8 @@
 
         .row.justify-content-center.mb-4
           .col-lg-7
-            p.mb-4 Cuando se habla de
-              b(style="color: #008F85") protección al consumidor en el sector funerario   
+            p.mb-4 Cuando se habla de 
+              b(style="color: #008F85") protección al consumidor en el sector funerario 
               b  se debe brindar la información adecuada y concreta para la realización de la toma de decisiones sobre el servicio a tomar. 
               b-none Muchas veces este servicio es prepagado, que quiere decir, que con anterioridad se ha hecho el pago por medio de previsión exequial o pólizas, en este caso algunos trabajadores querrán ofrecer servicios extras o mejoras con el fin de obtener un mejor ritual. 
               b(style="color: #B42218") La Superintendencia de Industria y Comercio 

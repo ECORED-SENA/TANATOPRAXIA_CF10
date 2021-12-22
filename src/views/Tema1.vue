@@ -71,14 +71,14 @@
               LineaTiempoD.color-primario
                 p.mb-0(numero="1" titulo="Sociedad colectiva") La administración de la sociedad recae en los socios.
                 p.mb-0(numero="2" titulo="Sociedad anónima (S.A.)") Se conforma por escritura pública y se debe de contar con 5 o más asociados y cada uno de ellos solo responde por el monto de su contribución.
-                p.mb-0(numero="3" titulo="Sociedad limitadas (LTDA)") Se constituyen mediante escritura pública, puede contar con mínimo 2 socios y máximo 25 y el capital se divide en partes iguales entre los asociados.
+                p.mb-0(numero="3" titulo="Sociedad limitada (LTDA)") Se constituyen mediante escritura pública, puede contar con mínimo 2 socios y máximo 25 y el capital se divide en partes iguales entre los asociados.
                 p.mb-0(numero="4" titulo="Sociedades en comandita simple (S. en C.)") Se conforma por mínimo un socio y máximo 25 socios comanditarios (quienes aportan el capital), también debe incluir uno o más socios gestores, que son quienes se encargan de las operaciones, administrar y realizar seguimiento a los negocios. 
                 p.mb-0(numero="5" titulo="Sociedades en comandita por acciones (S.C.A.)") Se constituyen con al menos 5 socios y no hay límite máximo, también puede incluir un socio gestor y el capital es dividido en partes iguales.
         
         .row.justify-content-center.mb-5
           .col-lg-12
             p.mb-0
-              b Con el propósito de mantener el modelo de negocio y la constitución de una empresa
+              b Con el propósito de mantener el modelo de negocio y la constitución de una empresa 
               b-none las organizaciones establecen su estrategia, táctica, operación y su plan de negocio en un documento, a lo que se llama 
               b(style="color: #008F85;") plan estratégico. 
               b-none Este señala las 

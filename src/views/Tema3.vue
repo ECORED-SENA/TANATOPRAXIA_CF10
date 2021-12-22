@@ -53,7 +53,7 @@
               
             .cajon.color-secundario.p-4
               p.mb-0 Siguiendo 
-                b(style="color: #008F85") la idea de Ariño (2018),
+                b(style="color: #008F85") la idea de Ariño (2018), 
                 b-none el interés de adquisición que surge en el usuario se genera por 
                 b factores como la satisfacción del cliente con la experiencia de compra y el beneficio recibido por este. 
                 b-none Del mismo modo, al generar un ciclo donde 
@@ -77,7 +77,7 @@
                 .col-5.col-sm-5.col-lg-4
                   figure
                     img.mx-auto(src='@/assets/curso/tema3/icon1.svg', alt='icono que acompaña', style="")
-              h3.text-center Ventas simples/ self service
+              h3.text-center Ventas simples/ "self service"
               p.mb-4.text-center Este tipo de ventas se refiere a aquellas que se realizan en el momento, sin mucha complicación y antelación, ya que el cliente potencial o lead, va por su cuenta a adquirir el producto o servicio, aquí se puede mencionar el comercio electrónico o el <i>retail</i>. 
               p.text-center #[strong Ejemplos:] ropa, alimentos, elementos de aseo, etc.
             .col-md.tarjeta.color-primario.p-5(style='background-color: #A6DAD7')
@@ -257,7 +257,7 @@
           .col-lg-12
             p.mb-0 Existen varias definiciones que nombran 
               b(style="color: #B42218") la calidad 
-              b-none desde diferentes ópticas, como
+              b-none desde diferentes ópticas, como 
               b metodología, como medio o como atributos de lealtad y fidelización. 
               b-none Lee cada una de ellas y 
               b(style="color: #008F85") construya su propia definición de calidad:
@@ -312,7 +312,7 @@
                 b(style="color: #B42218")  la calidad del servicio 
                 b-none  está directamente asociada al 
                 b concepto de cultura del servicio y que es responsabilidad de todos y cada uno de los miembros (directivos, fuerza de ventas, empleados), 
-                b-none pero está claro que en el actual escenario de permanente transformaciones, hipercompetitivo y lleno de desafíos se plantea que la 
+                b-none pero está claro que en el actual escenario de permanente transformaciones, hipercompetitivo y lleno de desafíos se plantea que 
                 b(style="color: #008F85") la calidad del servicio está focalizada 
                 b  en la capacidad de generar estrategias de adaptación de manera rápida, continua y coherente. 
 
@@ -492,7 +492,7 @@
                   p.mb-4 Cuando el cliente y la empresa cierren la venta de los servicios adquiridos se sugiere que ambas partes validen la información compartida, tratamiento de datos, condiciones y términos del servicio. Todo este proceso debe ser documentado; con la intención de que conozca más información consulte la 
                     b Norma Técnica Colombiana- Servicios Funerarios NTC 5840 
                     b(style="color: #008F85") (ICONTEC, 2017, p. 2).
-                  a.anexo.mb-4.mb-lg-0(href="https://www.google.com/url?q=https://e-collection-icontec-org.bdigital.sena.edu.co/pdfview/viewer.aspx?locale%3Den-US%26Q%3DAF60935720F13C6466C0297B7F80FF16%26Req%3D&sa=D&source=docs&ust=1634913256141000&usg=AOvVaw2qaPwObcjbkVc8UwtTfBie" target="_blank")
+                  a.anexo.mb-4.mb-lg-0(href="https://login.bdigital.sena.edu.co/login?url=https://e-collection.icontec.org/pdfview/viewer.aspx?locale=en-US&Q=AF60935720F13C6466C0297B7F80FF16&Req=" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-link.svg")
                     .anexo__texto

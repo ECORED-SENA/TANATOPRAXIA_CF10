@@ -292,7 +292,7 @@ export default {
   complementario: [
     {
       texto:
-        'Ecosistema de recursos educativos digitales SENA. (2020). Servicio al cliente [ video]. YouTube.',
+        'Ecosistema de recursos educativos digitales SENA. (2020). Servicio al cliente [video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=p2I7GFzVh44',
     },
@@ -327,7 +327,7 @@ export default {
       {
         nombre: 'Jhacesiz Mary Hincapié Atehortúa',
         cargo:
-          'Instructora (EPC) – Líder de desarrollo curricular servicios personales',
+          'Instructora (EPC) - Líder de desarrollo curricular servicios personales',
         centro: 'Centro de Servicios de Salud  - Regional Antioquia',
       },
       {
